@@ -1,2 +1,14 @@
-- name: Index
+- name: Sticky Notes Docs
   href: index.md
+  displayName: Sticky Notes Docs
+  pdf_name: TBD
+- name: Release Notes
+  href: ./releasenotes.md
+- name: FAQs
+  href: ./faqs.md
+- name: Accessibility
+  href: ./accessibility.md
+- name: GDPR guidelines
+  href: ./GDPR.md
+- name: Access on other devices
+  href: ./otherdevices.md
