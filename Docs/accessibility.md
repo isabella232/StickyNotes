@@ -15,13 +15,14 @@ keywords: accessibility
 Here are the accessibility guidelines for using Microsoft Sticky Notes.
 
 
-## Section one
+## Keyboard shortcuts
 
-Go to [Link](https://docs.microsoft.com) and select the **anser** for the answer. 
-Maybe this will be a list: 
-* Item 1 
-* Item 2  
-* Item 3 
+Action | Default shortcut | Exceptions 
+:------|:-------:| :----:
+ New sticky note | Ctrl + N | ca-es: Ctrl+U <br> ca-es-valencia: Ctrl+U <br> es-es: Ctrl+U
+ Delete current sticky note | Ctrl + D | N/A 
+
+
 
 ## Additional references
 
