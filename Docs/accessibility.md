@@ -1,8 +1,8 @@
 ---
 title: Accessibility guidelines for Sticky Notes
 description: Accessibility guidelines for Microsoft Sticky Notes. 
-author: mattwojo
-ms.author: mattwoj
+author: Reza1024
+ms.author: rejooyan
 ms.date: 10/08/2018
 ms.topic: conceptual
 ms.prod: windows

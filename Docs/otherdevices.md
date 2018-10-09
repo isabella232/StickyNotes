@@ -1,8 +1,8 @@
 ---
 title: Using Sticky Notes on other devices
 description: Guidelines for using Microsoft Sticky Notes on Android, iOS, and other devices that are not running on Windows 10. 
-author: mattwojo
-ms.author: mattwoj
+author: Reza1024
+ms.author: rejooyan
 ms.date: 10/08/2018
 ms.topic: conceptual
 ms.prod: windows

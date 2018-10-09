@@ -1,8 +1,8 @@
 ---
 title: Sticky Notes Release Notes
 description: Release notes for the lastest version of Microsoft Sticky Notes. 
-author: mattwojo
-ms.author: mattwoj
+author: Reza1024
+ms.author: rejooyan
 ms.date: 10/08/2018
 ms.topic: conceptual
 ms.prod: windows

@@ -1,8 +1,8 @@
 ---
 title: Guidelines for exporting data for GDPR
 description: Guidelines for exporting data for GDPR with Microsoft Sticky Notes. 
-author: mattwojo
-ms.author: mattwoj
+author: Reza1024
+ms.author: rejooyan
 ms.date: 10/08/2018
 ms.topic: conceptual
 ms.prod: windows
