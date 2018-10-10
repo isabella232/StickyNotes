@@ -16,7 +16,7 @@ Here are the release notes for the most recent version of Microsoft Sticky Notes
 
 
 ## Sticky Notes 3.0 brings the following new features and capabilities:
-![sticky notes 3 0](https://user-images.githubusercontent.com/6832601/45984184-b6969180-c014-11e8-841f-d5fa0c72e8d2.gif)
+![Sticky Notes backs up and sync notes](https://user-images.githubusercontent.com/6832601/45984184-b6969180-c014-11e8-841f-d5fa0c72e8d2.gif)
 * Sync (& backup) your notes across your Windows devices.
 * If you have a lot of notes, your desktop can get a bit crowded! We are introducing a new home for all your notes. You can choose which notes to stick to your desktop or tuck them away and find them again easily with search.
 * Before all the beautiful sunshine arrived, we channeled our dark energy into a dark themed note: Charcoal Note.
