@@ -10,8 +10,6 @@ ms.technology: stickynotes
 keywords: FAQs
 ---
 
-# Sticky Note FAQs
-
 # Sticky Notes FAQ
 
 # **Frequently Asked Questions**
