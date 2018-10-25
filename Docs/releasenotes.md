@@ -1,6 +1,6 @@
 ---
 title: Sticky Notes Release Notes
-description: Release notes for the lastest version of Microsoft Sticky Notes. 
+description: Release notes for the lastest versions of Microsoft Sticky Notes. 
 author: Reza1024
 ms.author: rejooyan
 ms.date: 10/10/2018
@@ -9,13 +9,12 @@ ms.prod: windows
 ms.technology: stickynotes
 keywords: Release notes
 ---
+# Microsoft Sticky Notes (v3.1.26)
+* We tested the waters with the Charcoal Note and you all seemed keen to go even darker!  Introducing full-on Dark Mode support in Sticky Notes.  We support Windows Dark Mode as well as the ability to set your color mode in Sticky Notes to suit your mood.
+* Everyone seemed excited about Sticky Notes syncing, so we spent some time making it even faster! Check it out and let us know how it feels.
 
-# Release notes for Microsoft Sticky Notes (v3.0.118)
+# Microsoft Sticky Notes (v3.0.118)
 
-Here are the release notes for the most recent version of Microsoft Sticky Notes.
-
-
-## Sticky Notes 3.0 brings the following new features and capabilities:
 ![Sticky Notes backs up and sync notes](https://user-images.githubusercontent.com/6832601/45984184-b6969180-c014-11e8-841f-d5fa0c72e8d2.gif)
 * Sync (& backup) your notes across your Windows devices.
 * If you have a lot of notes, your desktop can get a bit crowded! We are introducing a new home for all your notes. You can choose which notes to stick to your desktop or tuck them away and find them again easily with search.
