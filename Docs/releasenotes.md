@@ -3,7 +3,7 @@ title: Sticky Notes Release Notes
 description: Release notes for the lastest versions of Microsoft Sticky Notes. 
 author: Reza1024
 ms.author: rejooyan
-ms.date: 10/10/2018
+ms.date: 10/25/2018
 ms.topic: conceptual
 ms.prod: windows
 ms.technology: stickynotes
