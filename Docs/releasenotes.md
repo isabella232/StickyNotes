@@ -10,8 +10,13 @@ ms.technology: stickynotes
 keywords: Release notes
 ---
 # Microsoft Sticky Notes (v3.1.26)
-* We tested the waters with the Charcoal Note and you all seemed keen to go even darker!  Introducing full-on Dark Mode support in Sticky Notes.  We support Windows Dark Mode as well as the ability to set your color mode in Sticky Notes to suit your mood.
-* Everyone seemed excited about Sticky Notes syncing, so we spent some time making it even faster! Check it out and let us know how it feels.
+* We tested the waters with the Charcoal Note and you all seemed keen to go even darker! Introducing full-on Dark Mode support in Sticky Notes.  We support Windows Dark Mode as well as the ability to set your color mode in Sticky Notes to suit your mood.
+* Everyone seemed excited about Sticky Notes syncing, so we spent some time making it even faster! 
+
+![Notes List in Dark Mode](https://user-images.githubusercontent.com/6832601/47502450-adb7fc00-d81c-11e8-95b0-976334d22436.png)
+![All different colours of Sticky Notes in Dar Mode](https://user-images.githubusercontent.com/6832601/47502068-c4118800-d81b-11e8-8d1d-0192de0b7680.png)
+
+
 
 # Microsoft Sticky Notes (v3.0.118)
 
