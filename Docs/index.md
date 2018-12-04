@@ -34,7 +34,7 @@ A brand new Sticky Notes for Windows has arrived! Thanks to a new and improved d
         </a>
     </li>
     <li>
-        <a href="./faq.md">
+        <a href="./faqs.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
