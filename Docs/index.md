@@ -34,7 +34,7 @@ A brand new Sticky Notes for Windows has arrived! Thanks to a new and improved d
         </a>
     </li>
     <li>
-        <a href="./faq.md">
+        <a href="./faqs.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -52,7 +52,7 @@ A brand new Sticky Notes for Windows has arrived! Thanks to a new and improved d
         </a>
     </li>
     <li>
-        <a href="./releasenotes.md">
+        <a href="./releasenotes/3.1/3.1.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -63,24 +63,6 @@ A brand new Sticky Notes for Windows has arrived! Thanks to a new and improved d
                     </div>
                     <div class="cardText">
                         <h3>Release Notes</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="./GDPR.md">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_article.svg" alt="FAQ Icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>GDPR Guidelines</h3>
                     </div>
                 </div>
             </div>
