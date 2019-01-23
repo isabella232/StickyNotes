@@ -10,21 +10,26 @@ ms.technology: stickynotes
 keywords: Android, iOS, MacBook
 ---
 
-# How to access Sticky Notes on other devices
+#  Take your Sticky Notes with you
 
-Microsoft Sticky Notes can now be used on Android, iOS, and other devices that are not running on Windows 10, the following will help you to understand how.
+You can now access all your Sticky Notes through the OneNote app on your iPhone or Android device. Take a quick note on the go and it will sync back to your Windows machine. Never lose track of that thought or idea no matter where you are.
 
+<div align="left" style="height:500px;float:left;">
+[iOS](https://www.microsoft.com)
+[Android](https://www.microsoft.com)
+</div>
 
-## Section one
+<img style="float:right;" src="images/app.png" width="500"/>
+<br style="clear:both"/>
 
-Go to [Link](https://docs.microsoft.com) and select the **anser** for the answer. 
-Maybe this will be a list: 
-* Item 1 
-* Item 2  
-* Item 3 
+# Get Sticky Notes on the go with Microsoft Launcher
 
-## Additional references
+<img align="left" src="images/launcher.png" />
+<div style="float:right;text-align: left; width:500px">
+With Microsoft Launcher, you can personalize your Android device to match your style with wallpapers, theme colors, icon packs and more. With a Microsoft account or work/school account, you can access your calendar, documents, Sticky Notes and recent activities in your personalized feed. 
+</div>
+<br style="clear:both"/>
 
-* [Link](https://docs.microsoft.com)
-* [Link](https://docs.microsoft.com)
-* [Link](https://docs.microsoft.com)
+# Help us improve Sticky Notes
+
+We believe that the customer comes first. If you think there is a way we can make Sticky Notes even better, or if you want to tell us how you use Sticky Notes: head over to [uservoice]. We'd love to hear from you.
